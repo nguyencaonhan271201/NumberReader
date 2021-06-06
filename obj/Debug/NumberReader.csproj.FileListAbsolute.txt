@@ -1,0 +1,9 @@
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\bin\Debug\NumberReader.exe.config
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\bin\Debug\NumberReader.exe
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\bin\Debug\NumberReader.pdb
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\obj\Debug\NumberReader.csprojResolveAssemblyReference.cache
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\obj\Debug\NumberReader.Form1.resources
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\obj\Debug\NumberReader.Properties.Resources.resources
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\obj\Debug\NumberReader.csproj.GenerateResource.Cache
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\obj\Debug\NumberReader.exe
+F:\BT Tin 11\C#\13+20-10-2017\NumberReader\NumberReader\obj\Debug\NumberReader.pdb
